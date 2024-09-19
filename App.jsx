@@ -4,8 +4,8 @@ import { GoogleSignin } from '@react-native-google-signin/google-signin';
 
 
 GoogleSignin.configure({
-	webClientId:'943611941936-98u11c97pdatjetp083iv8sj7pguvgm4.apps.googleusercontent.com',
-	iosClientId: '943611941936-0hhpthsftuiblbhuqskhg0186if61or7.apps.googleusercontent.com',
+	webClientId:'---',
+	iosClientId: '---',
 	scopes: ['profile', 'email'],
 });
 
